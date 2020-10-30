@@ -1,0 +1,20 @@
+h1 {
+    color:aliceblue;
+    text-align:center;
+    background-color:brown;
+}
+h2{
+    color: oldlace;
+    text-align:center;
+    background-color:aquamarine;
+}
+h4{
+    color:green;
+}
+p{
+    color:gray;
+}
+body{
+    background-image:url(../images/haikei03.png);
+}
+
