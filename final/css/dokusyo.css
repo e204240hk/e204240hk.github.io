@@ -1,0 +1,57 @@
+h1.black{
+    font-size : 40px;
+    color:aliceblue;
+    text-align:center;
+    background-color:brown;
+}
+div.haikei{
+    width:1350px;
+    height:268px;
+    font-size: 0px;
+    background-color: azure;
+}
+span.koumoku1{
+    display: inline-block;
+    width:200px;
+    height:268px;
+    background-color:chartreuse;
+    font-family: "Impact";
+    vertical-align: top;
+    margin-right: 10px;}
+span.koumoku2{
+    display: inline-block;
+    width:10px;
+    height:268px;
+    background-color:chartreuse;
+    font-family: "Impact";
+    vertical-align: top;
+    margin-left: 10px;}
+div.menyu1{
+    display: inline-block;
+    width: 1110px;
+    height: 268px;
+    background-color:aquamarine;
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-left: 3px;
+}
+h1.kd{
+    color:azure;
+    text-align:center;
+    background-color:green;
+}
+
+h2.green{
+    color:black;
+    text-align:center;
+    background-color:greenyellow;
+}
+h2.syumi{
+    color:white;
+    text-align:center;
+    background-color:purple;
+
+}
+body{
+background-image:url(../images/haikei03.png);
+}

@@ -1,0 +1,30 @@
+h1.black{
+    font-family:inherit;
+    font-size : 40px;
+    color:aliceblue;
+    text-align:center;
+    background-color:brown;
+}
+
+h2.kd{
+    color:azure;
+    text-align:center;
+    background-color:green;
+}
+
+h2.green{
+    color:forestgreen;
+    text-align:center;
+    background-color:chartreuse;
+}
+h2.syumi{
+    color:mediumblue;
+    text-align:center;
+    background-color:aqua;
+
+}
+
+
+body{
+background-image:url(../images/haikei03.png);
+}
